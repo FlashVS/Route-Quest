@@ -31,6 +31,8 @@ string inp = "tc/input_.txt";
 string otp = "output/output_.txt";
 ```
 
+Run the main.cpp function after changing the string names.
+
 ## Key Components
 
 ### Algorithms Used
